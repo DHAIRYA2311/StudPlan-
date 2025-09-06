@@ -1,0 +1,39 @@
+{
+    "tasks": [
+        {
+            "name": "HOMEWORK",
+            "date": "2025-09-07",
+            "subjectId": "eb6ad099-3abb-4283-b52b-74174166b2d8",
+            "id": "c5b2826c-755e-4a89-aed7-e4a4778fa057",
+            "completed": false,
+            "pomodoroSessions": 1
+        },
+        {
+            "name": "Chapter 3 - Maths",
+            "date": "2025-09-07",
+            "subjectId": "eb6ad099-3abb-4283-b52b-74174166b2d8",
+            "id": "71c4ebe0-a2dc-4ad4-a269-23ba142e0df3",
+            "completed": false,
+            "pomodoroSessions": 0
+        }
+    ],
+    "subjects": [
+        {
+            "name": "Maths",
+            "id": "eb6ad099-3abb-4283-b52b-74174166b2d8",
+            "chapters": [
+                {
+                    "id": "27c0f382-06ee-4152-bddb-d69f321c25e4",
+                    "name": "Chapter 1"
+                },
+                {
+                    "id": "44df88bc-bc6b-4d41-8100-19a71f386e09",
+                    "name": "Chapter 2"
+                }
+            ]
+        }
+    ],
+    "journal": {
+        "2025-09-06": "Chapter 3 : Maths\n"
+    }
+}
